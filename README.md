@@ -1,4 +1,4 @@
-## Welcome to the Open Source Vulnerability Disclosure Framework
+## Welcome to the Open Source Vulnerability Disclosure Policy
 
 This Framework is maintained by [Bugcrowd](https://bugcrowd.com). It is designed to prepare organizations to work with the independent security research community while reducing the legal risks to researchers and companies. The policy itself has been written with both simplicity and legal completeness in mind.
 
